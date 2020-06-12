@@ -1,9 +1,9 @@
 # flink示例
 
-1.flink+spring
-2.kafka数据源
-3.数据持久化mysql
-4.数据缓存redis
+1. flink+spring
+2. kafka数据源
+3. 数据持久化mysql
+4. 数据缓存redis
 
 ```
 CREATE TABLE `user_click_log` (
